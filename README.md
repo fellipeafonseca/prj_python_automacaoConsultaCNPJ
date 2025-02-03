@@ -25,11 +25,13 @@ Antes de executar o projeto, instale os seguintes softwares:
    cd automacao-cnpj
 
 
-📦 Bibliotecas utilizadas
-Biblioteca	Descrição
-selenium	Para automação do navegador
-webdriver-manager	Gerencia o ChromeDriver automaticamente
-openpyxl	Manipulação de arquivos Excel
+#📦 Bibliotecas utilizadas:
+- selenium	Para automação do navegador
+- webdriver-manager	Gerencia o ChromeDriver automaticamente
+- openpyxl	Manipulação de arquivos Excel
+
+Caso precise instalar as bibliotecas manualmente, execute:
+pip install selenium webdriver-manager openpyxl
 
 
 ▶️ Como executar a automação
@@ -39,7 +41,7 @@ cnpjs = ["00.000.000/0001-91", "11.111.111/0001-22"]
 
 2. Execute o script Python
    python main.py
-3. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na mesma pasta do projeto. 🎯
+3. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na pasta "C:\Temp" 🎯
 
 🎥 Demonstração da Automação
 
