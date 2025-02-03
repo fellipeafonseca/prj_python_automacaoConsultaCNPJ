@@ -1,6 +1,5 @@
-# prj_python_automacaoConsultaCNPJ
 
-# 🚀 Automação de Consulta de CNPJ com Python (Selenium + OpenPyXL)
+# 🚀 Automação de Consulta de CNPJ com Python
 
 Este projeto utiliza **Python, Selenium e OpenPyXL** para automatizar a consulta de **CNPJs** em um site e salvar os dados extraídos em um arquivo **Excel**. 📊  
 
