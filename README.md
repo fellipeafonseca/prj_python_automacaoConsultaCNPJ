@@ -37,7 +37,7 @@ Caso precise instalar as bibliotecas manualmente, execute:
 - cnpjs = ["00.000.000/0001-91", "90.400.888/0001-42"]
 
 2. Execute o script Python
-- python main.py
+- python rpa.py
 
 4. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na pasta "C:\Temp" 🎯
 
