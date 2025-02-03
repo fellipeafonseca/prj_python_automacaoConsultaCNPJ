@@ -32,7 +32,7 @@ Caso precise instalar as bibliotecas manualmente, execute:
 - pip install selenium webdriver-manager openpyxl
 
 
-▶️ Como executar a automação
+## ▶️ Como executar a automação
 1. Edite o arquivo main.py e adicione os CNPJs que deseja buscar:
 
 - cnpjs = ["00.000.000/0001-91", "90.400.888/0001-42"]
@@ -42,15 +42,16 @@ Caso precise instalar as bibliotecas manualmente, execute:
 
 4. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na pasta "C:\Temp" 🎯
 
-🎥 Demonstração da Automação
+## 🎥 Demonstração da Automação
 
 https://github.com/user-attachments/assets/357c83b6-48b5-4cd6-8541-945ef381369f
 
 ![image](https://github.com/user-attachments/assets/5310a3a8-cdcb-43b3-bf88-cbb754fe114d)
 
 
-
-🤝 Contribuições
+## 🤝 Contribuições
 Sinta-se à vontade para sugerir melhorias e abrir issues/pull requests!
 
-📩 Contato: [fellipefonseca76@gmail.com]
+📩 Contato: 
+- fellipefonseca76@gmail.com
+- https://www.linkedin.com/in/fellipe-fonseca/
