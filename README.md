@@ -1,0 +1,1 @@
+# prj_python_automacaoConsultaCNPJ
