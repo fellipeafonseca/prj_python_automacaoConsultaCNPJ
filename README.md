@@ -21,29 +21,34 @@ Antes de executar o projeto, instale os seguintes softwares:
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/automacao-cnpj.git
-   cd automacao-cnpj
+   git clone https://github.com/seu-usuario/automacao-cnpj](https://github.com/fellipeafonseca/prj_python_automacaoConsultaCNPJ.git
 
-
-#📦 Bibliotecas utilizadas:
+📦 #Bibliotecas utilizadas:
 - selenium	Para automação do navegador
 - webdriver-manager	Gerencia o ChromeDriver automaticamente
 - openpyxl	Manipulação de arquivos Excel
 
 Caso precise instalar as bibliotecas manualmente, execute:
-pip install selenium webdriver-manager openpyxl
+- pip install selenium webdriver-manager openpyxl
 
 
 ▶️ Como executar a automação
 1. Edite o arquivo main.py e adicione os CNPJs que deseja buscar:
 
-cnpjs = ["00.000.000/0001-91", "11.111.111/0001-22"]
+- cnpjs = ["00.000.000/0001-91", "90.400.888/0001-42"]
 
 2. Execute o script Python
-   python main.py
-3. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na pasta "C:\Temp" 🎯
+- python main.py
+
+4. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na pasta "C:\Temp" 🎯
 
 🎥 Demonstração da Automação
+
+
+https://github.com/user-attachments/assets/357c83b6-48b5-4cd6-8541-945ef381369f
+
+![image](https://github.com/user-attachments/assets/5310a3a8-cdcb-43b3-bf88-cbb754fe114d)
+
 
 
 🤝 Contribuições
