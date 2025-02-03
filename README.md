@@ -21,9 +21,9 @@ Antes de executar o projeto, instale os seguintes softwares:
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/automacao-cnpj](https://github.com/fellipeafonseca/prj_python_automacaoConsultaCNPJ.git
+   git clone https://github.com/fellipeafonseca/prj_python_automacaoConsultaCNPJ.git
 
-📦 #Bibliotecas utilizadas:
+## 📦 Bibliotecas utilizadas:
 - selenium	Para automação do navegador
 - webdriver-manager	Gerencia o ChromeDriver automaticamente
 - openpyxl	Manipulação de arquivos Excel
@@ -43,7 +43,6 @@ Caso precise instalar as bibliotecas manualmente, execute:
 4. Após a execução, os resultados estarão no arquivo dados_cnpj.xlsx na pasta "C:\Temp" 🎯
 
 🎥 Demonstração da Automação
-
 
 https://github.com/user-attachments/assets/357c83b6-48b5-4cd6-8541-945ef381369f
 
